@@ -1,6 +1,6 @@
 {
-  "name": "com.shoelace.soap.events",
-  "version": "1.0.0",
+  "name": "ca.shoelacestudios.soap.events",
+  "version": "1.1.0",
   "displayName": "Shoelace SOAP Events",
   "description": "A System for calling events across assemblies reference free. Uses global SOs and Unity Listeners for Designer friendly production",
   "unity": "2021.3",
