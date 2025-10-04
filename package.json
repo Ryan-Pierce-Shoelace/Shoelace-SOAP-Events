@@ -5,7 +5,7 @@
   "description": "A System for calling events across assemblies reference free. Uses global SOs and Unity Listeners for Designer friendly production",
   "unity": "2021.3",
   "author": {
-    "name": "Shoelace Dev Team"
+    "name": "Shoelace Studios"
   },
   "contributors": [
     {
