@@ -1,5 +1,5 @@
 using UnityEngine;
-namespace Shoelace.Events
+namespace ShoelaceStudios.SOAP.Events
 {
     [CreateAssetMenu (fileName = "New Float Event", menuName = "SO Architecture/SO Event/Float Event")]
     public class Float_SOEvent : BaseSOEvent<float>

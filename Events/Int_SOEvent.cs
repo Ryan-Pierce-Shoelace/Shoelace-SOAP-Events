@@ -1,5 +1,5 @@
 using UnityEngine;
-namespace Shoelace.Events
+namespace ShoelaceStudios.SOAP.Events
 {
     [CreateAssetMenu (fileName = "New Int Event", menuName = "SO Architecture/SO Event/Int Event")]
     public class Int_SOEvent : BaseSOEvent<int>

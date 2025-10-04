@@ -1,6 +1,6 @@
 using UnityEngine;
 using UnityEngine.Events;
-namespace Shoelace.Events
+namespace ShoelaceStudios.SOAP.Events
 {
     public abstract class BaseSOEventListener<TValue, TGameEvent, TUnityResponse> : MonoBehaviour,
         ISOEventListener<TValue> 

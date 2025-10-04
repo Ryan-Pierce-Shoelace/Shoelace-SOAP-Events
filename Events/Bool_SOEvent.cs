@@ -1,5 +1,5 @@
 using UnityEngine;
-namespace Shoelace.Events
+namespace ShoelaceStudios.SOAP.Events
 {
     [CreateAssetMenu(fileName = "New Bool Event", menuName = "SO Architecture/SO Event/Bool Event")]
     public class Bool_SOEvent : BaseSOEvent<bool>

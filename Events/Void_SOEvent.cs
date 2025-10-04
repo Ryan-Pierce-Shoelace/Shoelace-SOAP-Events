@@ -1,5 +1,5 @@
 using UnityEngine;
-namespace Shoelace.Events
+namespace ShoelaceStudios.SOAP.Events
 {
     [CreateAssetMenu (fileName = "New Void Event", menuName = "SO Architecture/SO Event/Void Event")]
     public class Void_SOEvent : BaseSOEvent<Void>

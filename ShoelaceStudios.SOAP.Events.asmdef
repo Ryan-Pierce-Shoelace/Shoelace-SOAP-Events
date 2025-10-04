@@ -1,6 +1,6 @@
 {
-    "name": "Shoelace.Events",
-    "rootNamespace": "Shoelace.Events",
+    "name": "ShoelaceStudios.SOAP.Events",
+    "rootNamespace": "ShoelaceStudios.SOAP.Events",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],

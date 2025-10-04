@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 using UnityEngine;
-namespace Shoelace.Events
+namespace ShoelaceStudios.SOAP.Events
 {
     public abstract class BaseSOEvent<T> : ScriptableObject
     {

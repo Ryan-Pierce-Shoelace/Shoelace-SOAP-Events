@@ -1,4 +1,4 @@
-﻿namespace Shoelace.Events
+﻿namespace ShoelaceStudios.SOAP.Events
 {
     public interface ISOEventListener<TValue>
     {
